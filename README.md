@@ -43,7 +43,3 @@ as JFA seeds.
 * `points3dcpy`: As `points3d`, but performing computation in host with OpenMP and transferring iteration results to device before displaying each time step.
 * `automata3d`: Demonstrates the mapping of double buffered experiments in a ping-pong fashion to display the evolution of a 3D cellular automata. Press enter to advance the simulation.
 
-
-# Current features
-* Visualization of 2D structured and non-structured data
-* Synchronous and asynchronous (on separate thread) rendering
